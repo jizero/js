@@ -62,7 +62,7 @@ var Jizero = function() {
     }
 
     var ajaxSetting = {
-        apiUrl : 'http://jizeroapi.hostingkr.co/api/v2/account',
+        apiUrl : 'http://jizeroapi.xxx.co/api/v2/account',
         page : 5,
         limit : 5
     }  
